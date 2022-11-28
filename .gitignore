@@ -18,6 +18,11 @@ target/
 *.iws
 *.iml
 *.ipr
+*.pom.xml
+*.Employee-management.iml
+*.mvn
+*.HELP.md
+*.README.md
 
 ### NetBeans ###
 /nbproject/private/
